@@ -1,4 +1,13 @@
 ---
 label: blog2
 hide_body: false
-fields: []
+fields:
+- name: alitehrani15
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: alitehrani15
