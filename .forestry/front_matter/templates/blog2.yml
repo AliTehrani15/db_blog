@@ -12,4 +12,5 @@ fields:
       format: markdown
   label: alitehrani15
 pages:
+- _posts/aaa.md
 - aaa/aaaaa.md

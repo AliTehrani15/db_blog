@@ -1,0 +1,11 @@
+---
+alitehrani15: spicy
+
+---
+<p class="dropCap">Spider-Man is the greatest superhero of all time. Okay, let me backtrack a little bit. After I stated Spider-Man is the greatest comic superhero, I doubt people read it and said, “how could you say that?” or in some shape or form try to insult me. Sure there may be more good-looking actors that portray superheroes than Tobey McGuire, Tom Holland, or Andrew Garfield. However, what makes Spider-Man unique, beloved, and my favorite superhero? In this paper, I will argue that Spider-Man’s character is a feature that makes him the greatest superhero of all time. The greatness of Tony Stark in Ironman is mostly because of the acting performance of Robert Downey Jr., whereas in Spiderman movies, the greatness of Peter Parker comes from the character instead of the actor behind the character.</p>
+
+<img src="{{ site.baseurl }}/assets/img/blog/blog1.1.jpg" alt="Example of Distraction"/>
+
+<p>To justify my argument, I will analyze Spider-Man (2002) directed by Sam Raimi, and use semiotics of the character, costume choice, setting, puberty, and maturity, to further prove reasons that make Spider-Man’s character unique and different from other superheroes. Through character analysis, I will analyze why people, from younger to older generations, resonate with him and why the character has remained popular for so long. Sam Raimi introduces the audience to a feeling of aspiration and captures the viewer’s attention through a variety of different techniques.</p>
+
+<p>There are better Marvel or superhero movies with better actors or special effects. Spider-Man stops bad guys and saves the day, but that seems like every other superhero. Superman and Ironman were grown men, good looking, and motivated by their natural righteousness. However, Peter Parker was a bullied teenager, and had to work to be a hero. Furthermore, Peter Parker’s constant failure and embracing his failure adds to the authenticity and believability of why he was chosen as the Spider-Man character.</p>
