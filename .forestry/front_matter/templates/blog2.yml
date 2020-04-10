@@ -11,3 +11,5 @@ fields:
     schema:
       format: markdown
   label: alitehrani15
+pages:
+- aaa/aaaaa.md
